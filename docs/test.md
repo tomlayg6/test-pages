@@ -1,5 +1,4 @@
-[name](ref)  xxx [name](ref)  xxx [name](ref)  xxx [name](ref)  xxx 
-
+Current sample and proposed
 
 |Venue|Location|Date|Time|Event|
 |-----|--------|----|----|-----|
